@@ -24,7 +24,7 @@ dependencies = [
 ]
 [project.urls]
 Homepage = "https://github.com/resemble-ai/chatterbox"
-Repository = "https://github.com/devnen/chatterbox"
+Repository = "https://github.com/elkay/chatterbox"
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
